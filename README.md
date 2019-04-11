@@ -1,2 +1,2 @@
-# RecurringPlan-Paypal-Stripe-
-Recurring plan implementation in Paypal VS Stripe
+# RecurringPlan-Paypal
+Recurring plan implementation in Paypal
